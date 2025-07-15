@@ -49,7 +49,7 @@ Built with:
 
 ### 1. Clone the Repo
 
-git clone https://github.com/yourusername/zillow-home-value-predictor.git
+git clone https://github.com/Decadent-tech/Zillow-House-Prediction/.git
 cd ZILLOW-HOME-VALUE-APP
 
 
